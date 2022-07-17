@@ -8,7 +8,7 @@ namespace LeetPart2
 {
     class Question2
     {
-        public static void Main()
+        public static void Main2()
         {
             int []nums = { 0, 1, 2, 4 };
             Console.WriteLine(MissingNumber(nums));
