@@ -1,5 +1,5 @@
 ﻿class Question1{
-    public static void Main()
+    public static void Main1()
     {
         int[] nums = {2,2,1};
         Console.Write(SingleNumber(nums));
